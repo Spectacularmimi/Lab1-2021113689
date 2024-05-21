@@ -1,1 +1,1 @@
-new -> civilizations (No outgoing edges from civilizations)
+life -> and -> new -> worlds -> to -> explore -> strange -> new -> life -> and (Repeated edge: life -> and)
